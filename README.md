@@ -1,5 +1,5 @@
 # Sales-RFM-Analysis
-Analysis done in SQL, dashboard created using Tableau. 
+Analysis done in TSQL (Microsoft SQL Server), dashboard created using Tableau. 
 You can view both here:
 
  - Dashboard 1: https://public.tableau.com/app/profile/nilesh.domah/viz/SalesDashboard1_16866935836020/SalesDash1
